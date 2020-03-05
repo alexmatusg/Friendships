@@ -1,0 +1,1 @@
+select count(*) as total_amistades from friendships;
